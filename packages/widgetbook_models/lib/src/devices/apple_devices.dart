@@ -8,7 +8,7 @@ import 'package:widgetbook_models/src/devices/resolution.dart';
 /// https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
 class Apple {
   /// A 12.9 inch iPad Pro
-  static const Device iPadPro12inch = Device.tablet(
+  static const Device iPadPro12Inch = Device.tablet(
     name: '12.9" iPad Pro',
     resolution: Resolution(
       nativeSize: DeviceSize(
